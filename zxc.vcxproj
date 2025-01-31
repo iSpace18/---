@@ -127,9 +127,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="FileName.cpp" />
+    <ClCompile Include="task 5.5.cpp" />
+    <ClCompile Include="task 5.cpp" />
     <ClCompile Include="Shahnazaryan_PI-242_Cout.cpp" />
     <ClCompile Include="Shahnazaryan_PI-242_HelloWorld.cpp" />
+    <ClCompile Include="task 8.15.cpp" />
+    <ClCompile Include="task 6.cpp" />
+    <ClCompile Include="task 7.cpp" />
+    <ClCompile Include="task 8.1.cpp" />
+    <ClCompile Include="task 8.25.cpp" />
+    <ClCompile Include="task_8.2.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
